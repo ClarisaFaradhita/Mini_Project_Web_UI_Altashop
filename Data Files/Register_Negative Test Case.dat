@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Register_Negative Test Case</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5ebf0f57-b661-459a-9cd4-7b828074a90f</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Clarisa+Faradhita123%25%25 clarisa%40gmail.com%24%25%25 clarisa%22</data>
+   <data>Clarisa+Faradhita*%26* clarisa%40gmail.com* Jombang03%23%24%25</data>
+   <data>Clarisa+%40%23%24%25 faradhita%25%5E%26 %5E%25%25</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Nama Lengkap</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Email</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Password</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
